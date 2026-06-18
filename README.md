@@ -4,8 +4,9 @@ Senior Mobile Engineer with full-stack experience.
 
 # 🚀 Products
  
-**Marry Me** – Proposal planning app for iOS
+- **Marry Me** – Proposal planning app for iOS
 [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/us/app/marry-me-proposal-app/id6760957663)
+- **us** – Couples app for iOS/Android (React Native) ![In Development](https://img.shields.io/badge/Status-In_Development-orange)
 
 # 🔥 Focus Areas
 
