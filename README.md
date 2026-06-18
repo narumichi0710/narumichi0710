@@ -1,4 +1,4 @@
-# Hi, I'm Narumichi 👋
+# Hi, I'm Mitchy 👋
 
 Senior Mobile Engineer with full-stack experience.
 
